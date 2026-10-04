@@ -4,7 +4,11 @@ A working, independent voice-agent prototype for ecommerce support recovery. It 
 
 **Prototype by Pooja Hegde.** No real orders, refunds, labels, tickets, messages, or customer accounts are connected.
 
+**[Try the live browser demo](https://poojaahegde.github.io/aftercare-voice-agent/)** · [Read the product case study](CASE_STUDY.md)
+
 ## Try it
+
+Open the live demo above, or run it locally:
 
 1. Use Node.js 20 or newer.
 2. Run `npm start` from this folder.
